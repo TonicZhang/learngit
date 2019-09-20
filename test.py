@@ -13,6 +13,9 @@ def main():
         if f:
             f.close()
 
-
+#2019-9-20 new modification
+def test():
+	pass
+	
 if __name__ == '__main__':
     main()
